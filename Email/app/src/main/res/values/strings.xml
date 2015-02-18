@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Email "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_read_email">Read Email</string>
+    <string name="email_lblfrom">From</string>
+    <string name="email_lblTo">To</string>
+    <string name="email_cc">CC</string>
+    <string name="email_lblBCC">BCC</string>
+    <string name="email_subject">Subject</string>
+    <string name="email_body">Content</string>
+    <string name="email_btnSend">Send</string>
+    <string name="email_btnClear">Clear</string>
+    <string name="email_mailObject">mailObject</string>
+    <string name="email_btnBack">Back</string>
+
+</resources>
